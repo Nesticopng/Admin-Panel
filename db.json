@@ -113,6 +113,12 @@
       "nombre": "Helado de Mantecado",
       "precio": 2,
       "categoria": 2
+    },
+    {
+      "id":20,
+      "nombre":"Banana Split",
+      "precio":4,
+      "categoria":2
     }
   ],
   "cliente": []
